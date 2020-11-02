@@ -1,0 +1,20 @@
+The aim of this task is to have an aggregate that represents the state of a person.
+A person in this case is called a Contact, they can be linked to different objects in the system.
+E.g. a shop or a limited company
+
+The solution is currently configured to use a local instance of eventstore.
+You can use the docker image here:
+https://hub.docker.com/r/eventstore/eventstore/
+
+Requirements
+An endpoint to Create a Contact with an address, phone number and some mechanism to link to other objects.
+An endpoint to link the Contact to an object
+An endpoint to remove a link from a Contact
+The endpoints need to be idempotent
+Handle any race coniditions
+Return validation and domain errors to the client
+Have reusable events and domain logic so we can extend the system
+It must be completed in C# .Net Core 3.1+
+
+There are a few TODOs around the solution which are a guide.
+If you wish to change the implementation or move away from Eventstore you can.
