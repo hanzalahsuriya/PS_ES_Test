@@ -27,15 +27,4 @@
 
 ![alt text](https://github.com/hanzalahsuriya/PS_Test/blob/master/4.JPG)
 
-![alt text](https://github.com/hanzalahsuriya/PS_Test/blob/master/5.JPG)
-
-![alt text](https://github.com/hanzalahsuriya/PS_Test/blob/master/6.JPG)
-
-![alt text](https://github.com/hanzalahsuriya/PS_Test/blob/master/7.JPG)
-
-![alt text](https://github.com/hanzalahsuriya/PS_Test/blob/master/8.JPG)
- 
-![alt text](https://github.com/hanzalahsuriya/PS_Test/blob/master/9.JPG)
-
-![alt text](https://github.com/hanzalahsuriya/PS_Test/blob/master/10.JPG)
  
